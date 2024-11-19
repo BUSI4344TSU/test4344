@@ -5,6 +5,7 @@ import Products from './components/Products';
 import CustomSolutions from './components/CustomSolutions';
 import Sustainability from './components/Sustainability';
 import Contact from './components/Contact';
+import Reviews from './components/Reviews';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Hero />
       <Products />
       <CustomSolutions />
+      <Reviews />
       <Sustainability />
       <Contact />
     </div>
